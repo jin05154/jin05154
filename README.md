@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 🙋‍♀️, I'm Yumin</h1>
-<h3 align="center">A passionate frontend developer from S.Korea</h3><br />
+<h3 align="center">A passionate frontend developer from S.Korea</h3>
 
 - 👩‍💻 I’m currently working on [YouTube Algorithm Breaker](https://yt-algorithm-breaker.netlify.app/)
 
