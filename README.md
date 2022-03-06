@@ -3,7 +3,7 @@
 
 - 👩‍💻 I’m currently working on [YouTube Algorithm Breaker](https://yt-algorithm-breaker.netlify.app/)
 
-- 👀 All of my projects are available at [https://bit.ly/3sFh6ro](https://bit.ly/3sFh6ro)
+- 👀 All of my projects are available at [https://bit.ly/3MprVG1](https://bit.ly/3MprVG1)
 
 - 📝 I regularly write articles on [https://snakehips.tistory.com](https://snakehips.tistory.com)
 
