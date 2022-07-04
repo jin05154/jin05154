@@ -9,8 +9,6 @@
 
 - 📫 Reach me at **dorayuminlee@gmail.com**
 
-- 💖 Personality traits : **diligent / ambitious / adventurous / warm-hearted**
-
 - 🌏 Languages : **Korean / English**
 
 <h3 align="left">Connect with me:</h3>
